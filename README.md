@@ -1,5 +1,5 @@
 OneCare
-View Project Description as PDF | Download Project Description as Word Document
+View Project Description as PDF <a href="[url_to_pdf_document.pdf](https://github.com/more-aishwarya/OneCare/blob/main/ProjectDocuments/Project%20Description%20-%20OneCare.pdf)"> </a>| Download Project Description as Word Document
 
 File Structure
 Our application is structured as follows:
