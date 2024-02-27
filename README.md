@@ -16,7 +16,7 @@ Sprint Retrospective :This folder contains all the sprint retrospective document
 
 Technology Stack:
 Technologies : React ,Python
-Database : My-Sql
+Database :Firebase
 Version Control: Git
 Code Editor : Visual Studio Code
 Project Board:JIRA 
